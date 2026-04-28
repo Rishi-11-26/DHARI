@@ -1,0 +1,61 @@
+station,line,sequence,lat,lon
+Miyapur,Red,1,17.4966,78.3560
+JNTU College,Red,2,17.4930,78.3720
+KPHB Colony,Red,3,17.4875,78.3922
+Kukatpally,Red,4,17.4850,78.4115
+Balanagar,Red,5,17.4815,78.4311
+Moosapet,Red,6,17.4757,78.4386
+Bharatnagar,Red,7,17.4683,78.4452
+Erragadda,Red,8,17.4584,78.4512
+ESI Hospital,Red,9,17.4506,78.4543
+S R Nagar,Red,10,17.4440,78.4518
+Ameerpet,Red,11,17.4375,78.4483
+Punjagutta,Red,12,17.4313,78.4504
+Irrum Manzil,Red,13,17.4239,78.4592
+Khairatabad,Red,14,17.4183,78.4607
+Lakdi Ka Pul,Red,15,17.4107,78.4626
+Assembly,Red,16,17.4055,78.4675
+Nampally,Red,17,17.3920,78.4734
+Gandhi Bhavan,Red,18,17.3851,78.4745
+Osmania Medical College,Red,19,17.3776,78.4782
+MG Bus Station,Red,20,17.3731,78.4845
+Malakpet,Red,21,17.3735,78.5001
+New Market,Red,22,17.3713,78.5090
+Musarambagh,Red,23,17.3682,78.5198
+Dilsukhnagar,Red,24,17.3687,78.5247
+Chaitanyapuri,Red,25,17.3699,78.5346
+Victoria Memorial,Red,26,17.3689,78.5455
+LB Nagar,Red,27,17.3457,78.5521
+Nagole,Blue,1,17.3712,78.5676
+Uppal,Blue,2,17.4016,78.5595
+Stadium,Blue,3,17.4101,78.5548
+NGRI,Blue,4,17.4170,78.5479
+Habsiguda,Blue,5,17.4231,78.5410
+Tarnaka,Blue,6,17.4284,78.5343
+Mettuguda,Blue,7,17.4366,78.5199
+Secunderabad East,Blue,8,17.4399,78.4983
+Parade Ground,Blue,9,17.4417,78.4936
+Paradise,Blue,10,17.4435,78.4866
+Rasoolpura,Blue,11,17.4444,78.4767
+Prakash Nagar,Blue,12,17.4472,78.4666
+Begumpet,Blue,13,17.4447,78.4604
+Ameerpet,Blue,14,17.4375,78.4483
+Madhura Nagar,Blue,15,17.4331,78.4412
+Yusufguda,Blue,16,17.4312,78.4345
+Road No 5 Jubilee Hills,Blue,17,17.4318,78.4214
+Jubilee Hills Check Post,Blue,18,17.4345,78.4087
+Peddamma Temple,Blue,19,17.4390,78.4012
+Madhapur,Blue,20,17.4463,78.3910
+Durgam Cheruvu,Blue,21,17.4478,78.3831
+Hitech City,Blue,22,17.4435,78.3772
+Raidurg,Blue,23,17.4483,78.3915
+JBS Parade Ground,Green,1,17.4580,78.5046
+Parade Ground,Green,2,17.4417,78.4936
+Secunderabad West,Green,3,17.4412,78.4820
+Gandhi Hospital,Green,4,17.4305,78.4865
+Musheerabad,Green,5,17.4228,78.4897
+RTC X Roads,Green,6,17.4147,78.4950
+Chikkadpally,Green,7,17.4065,78.4957
+Narayanguda,Green,8,17.4018,78.4898
+Sultan Bazaar,Green,9,17.3878,78.4855
+MG Bus Station,Green,10,17.3731,78.4845
